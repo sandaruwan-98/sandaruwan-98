@@ -127,7 +127,7 @@
   
   <img  align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=sandaruwan-98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sandaruwan-98" src="https://github-readme-streak-stats.herokuapp.com?user=sandaruwan-98&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sandaruwan" src="https://github-readme-streak-stats.herokuapp.com?user=sandaruwan-98&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" /> 
 </td>
 
 <td width="50%" align="center">
