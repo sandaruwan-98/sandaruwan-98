@@ -4,14 +4,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Coders+.&hearts;++;Softwear+Developer,;Computer+Science+Student,;Cybersecurity+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs+.&hearts;"></a> 
 </p></h1>
-
 <p align="center">
   <br>
   <h3 align="center">About me</h3>
   <p align="center"><img src="https://komarev.com/ghpvc/?username=sandaruwan-98&label=Profile%20views&color=0e75b6&style=flat" alt="sandaruwan-98" /></p>
 </p>
-
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
 </a>
